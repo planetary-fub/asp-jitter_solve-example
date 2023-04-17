@@ -1,4 +1,4 @@
-# asp-jitter_solve-example
+# ASP jitter\_solve example script
 
 ## Requirements
 
