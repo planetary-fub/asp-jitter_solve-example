@@ -2,11 +2,11 @@
 
 ## Requirements
 
-Script is based on current stable version 3.2.0 of the [https://github.com/NeoGeographyToolkit/StereoPipeline](NASA Ames Stereo Pipeline) (ASP).
+Script is based on current stable version 3.2.0 of the [NASA Ames Stereo Pipeline](https://github.com/NeoGeographyToolkit/StereoPipeline) (ASP).
 
-Both ASP and the [https://zenodo.org/record/7106128](USGS Integrated Software for Imagers and Spectrometers) (ISIS, script based on current stable version 7.1.0) must be installed alongside with the IsisData files and the kernels for Mars Reconnaissance Orbiter.
+Both ASP and the [USGS Integrated Software for Imagers and Spectrometers](https://zenodo.org/record/7106128) (ISIS, script based on current stable version 7.1.0) must be installed alongside with the IsisData files and the kernels for Mars Reconnaissance Orbiter.
 
-For the creation of the CSM camera models, the [https://github.com/DOI-USGS/ale](Abstraction Layer for Ephemerides) (ALE) is necessary.
+For the creation of the CSM camera models, the [Abstraction Layer for Ephemerides](https://github.com/DOI-USGS/ale) (ALE) is necessary.
 
 We recommend installing all three components in the same Conda environment, installation order as mentioned here in the Readme.
 
